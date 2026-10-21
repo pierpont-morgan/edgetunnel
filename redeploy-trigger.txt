@@ -1,0 +1,1 @@
+Redeploy trigger: apply ADMIN env var and KV binding (EDT2).
